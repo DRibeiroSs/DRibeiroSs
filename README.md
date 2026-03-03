@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi, I'm Davi (Ribeiro)
 
-<!--
-**DRibeiroSs/DRibeiroSs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Davi, but you can call me Ribeiro — that's how my friends call me.
 
-Here are some ideas to get you started:
+🎮 I like playing games, especially:
+- Valorant
+- Sekiro
+- Hollow Knight
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 I'm currently studying Computer Science (1st semester).
+
+💼 I'm looking for an internship opportunity.
+
+💻 Interests:
+- Back-end development
+- Cybersecurity
+
+🚀 Future developer here :P
