@@ -17,4 +17,4 @@ My name is Davi, but you can call me Ribeiro — that's how my friends call me.
 
 🚀 Future developer here :P
 
-<img src="https://media.tenor.com/aTx3zLr2HjUAAAAi/penguin-pengu.gif" width="500">
+<img src="https://media.tenor.com/aTx3zLr2HjUAAAAi/penguin-pengu.gif" width="350">
