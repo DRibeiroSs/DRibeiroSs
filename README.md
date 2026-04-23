@@ -9,5 +9,3 @@
 - Cybersecurity
 
 🚀 Future developer here
-
-<img src="https://media.tenor.com/aTx3zLr2HjUAAAAi/penguin-pengu.gif" width="350">
