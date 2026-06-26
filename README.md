@@ -5,7 +5,5 @@
 💼 I'm looking for an internship opportunity.
 
 💻 Interests:
-- Back-end development
-- Cybersecurity
-
-🚀 Future developer here
+- Data Analytics
+- Data Science
